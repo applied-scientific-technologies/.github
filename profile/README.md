@@ -1,12 +1,7 @@
-## Hi there 👋
+## About Applied Scientific Technologies
 
-<!--
+Applied Scientific Technologies (AST) are an emerging and dynamic spin-out company of Applied Integration founded in 2005. AST, founded in 2017, based in Stokesley, North Yorkshire, specialises in providing cutting edge solutions across various sectors such as chemical, pharmaceutical, physical and life science industries.
 
-**Here are some ideas to get you started:**
+With a focus on research, development and implementation, AST are innovative specialists in laboratory robotics, digital Lab-of-the-Future connectivity and hardware integration.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Applied Scientific Technologies continues to push the boundaries of scientific innovation, shaping a better future for science and supporting your laboratory digitalisation journey.
